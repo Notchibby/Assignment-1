@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*generates layout and format for the aside bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +135,7 @@ p {
     max-width: 150px;
 }
 
+/*generates layout and format for the 3 sections of the page i.e. search engine optimization, online reputation management and social media marketing */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -189,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/*generates layout and format for the footer of the page*/
 .footer {
     padding: 30px;
     clear: both;
