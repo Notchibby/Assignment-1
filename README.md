@@ -1,4 +1,5 @@
 # Modified-Horiseon-Demo-page
+Refactored Horiseon page with proper html semantics
 
 ## Introduction and Objectives
 This project was done to better understant how to format a html index file using the proper semantics. 
