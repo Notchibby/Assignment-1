@@ -13,10 +13,12 @@ I encountered two major challanges thorughout this project. The first was after 
 The second challenge i encounterd was while using the footer semantic. i had not included the class attribute for the footer resulting in a loss of formating. However, this problem was rectified with help from my tutor.
 
 ## Screenshot of website
-![]<img src = "./Assets/horiseon-webpage-screenshot.jpg"
+![](./Assets/images/horiseon-webpage-screenshot.png)
 
 ## Link to git hub repository
 https://github.com/Notchibby/Refactored-Horiseon-code.git
 
 ## Link to live url deployment.
 https://notchibby.github.io/Refactored-Horiseon-code/
+
+Overall, This project helped me better understand how to properly use html semantics
